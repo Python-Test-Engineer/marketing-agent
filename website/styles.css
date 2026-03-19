@@ -182,9 +182,18 @@
 
     .card {
       background: #fff;
-      border-radius: var(--border-radius);
+      border-radius: 8px;
       padding: calc(var(--base-unit) * 8);
       border: 1px solid #dddbd4;
+      transform: translate(0, 0);
+      box-shadow: none;
+      transition: transform 0.2s cubic-bezier(0.23, 1, 0.32, 1),
+                  box-shadow 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .card:hover {
+      transform: translate(-4px, -6px);
+      box-shadow: 6px 8px 12px 0 rgba(20, 20, 19, 0.2);
     }
 
     .card-tag {

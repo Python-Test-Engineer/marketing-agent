@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brand Sample</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Nav -->
+    <nav>
+      <a href="#" class="nav-logo">Brand</a>
+      <ul class="nav-links">
+        <li><a href="#">Product</a></li>
+        <li><a href="#">Research</a></li>
+        <li><a href="#">Company</a></li>
+        <li><a href="#">Blog</a></li>
+      </ul>
+      <button class="hamburger" aria-label="Toggle menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+
+    <!-- Hero -->
+    <section class="hero">
+      <p class="hero-eyebrow">Introducing v2.0</p>
+      <h1>Build something<br>worth building.</h1>
+      <p>
+        A minimal, considered starting point for brand-consistent interfaces.
+        Every decision traces back to purpose — nothing is decorative by accident.
+      </p>
+      <a href="#" class="btn">Get started</a>
+      <a href="#" class="btn btn-outline">Learn more</a>
+    </section>
+
+    <!-- Cards -->
+    <div class="cards">
+      <div class="card">
+        <span class="card-tag">Design</span>
+        <h3>Intentional typography</h3>
+        <p>Anthropic Serif for headings, Anthropic Sans for body — distinct voices working in harmony.</p>
+      </div>
+      <div class="card">
+        <span class="card-tag">Color</span>
+        <h3>Warm, grounded palette</h3>
+        <p>Terracotta primary, near-black accent, and a parchment background that feels lived-in.</p>
+      </div>
+      <div class="card">
+        <span class="card-tag">System</span>
+        <h3>4px base unit grid</h3>
+        <p>Every spacing decision is a multiple of 4. Consistent rhythm from micro to macro.</p>
+      </div>
+    </div>
+
+    <!-- Color palette -->
+    <section class="section">
+      <p class="section-label">Color palette</p>
+      <div class="swatches">
+        <div class="swatch">
+          <div class="swatch-box" style="background:#C6613F;"></div>
+          <span>Primary<br>#C6613F</span>
+        </div>
+        <div class="swatch">
+          <div class="swatch-box" style="background:#D97757;"></div>
+          <span>Link<br>#D97757</span>
+        </div>
+        <div class="swatch">
+          <div class="swatch-box" style="background:#141413;"></div>
+          <span>Accent<br>#141413</span>
+        </div>
+        <div class="swatch">
+          <div class="swatch-box" style="background:#F0EEE6;"></div>
+          <span>Background<br>#F0EEE6</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Typography scale -->
+    <section class="section">
+      <p class="section-label">Type scale</p>
+      <h2 style="margin-bottom: 16px;">h2 — 96px</h2>
+      <h1 style="margin-bottom: 16px;">h1 — 64px</h1>
+      <h3 style="margin-bottom: 16px;">h3 — 36px</h3>
+      <p>Body — 24px. <a href="#">Links look like this.</a> Long-form prose sits comfortably at this size, providing
+        enough breathing room for extended reading without feeling oversized in UI contexts.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <span>© 2026 Brand</span>
+      <span>Built with intention.</span>
+    </footer>
+
+  </div>
+  <script>
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+    hamburger.addEventListener('click', () => {
+      const open = hamburger.getAttribute('aria-expanded') === 'true';
+      hamburger.setAttribute('aria-expanded', String(!open));
+      hamburger.classList.toggle('is-open');
+      navLinks.classList.toggle('is-open');
+    });
+    // close on link click
+    navLinks.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => {
+        hamburger.setAttribute('aria-expanded', 'false');
+        hamburger.classList.remove('is-open');
+        navLinks.classList.remove('is-open');
+      });
+    });
+  </script>
+</body>
+
+</html>

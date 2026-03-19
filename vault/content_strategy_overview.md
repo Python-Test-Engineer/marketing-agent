@@ -11,11 +11,11 @@ A **content strategy** is the backbone of all sustainable marketing. It defines 
 
 ## Core Pillars
 
-1. **Audience** — Know who you're serving → [[Audience Research and Personas]]
-2. **Message** — Define your voice and value props → [[Brand Voice and Messaging]]
-3. **Production** — Plan and execute consistently → [[Content Calendar Planning]]
-4. **Distribution** — Get content in front of the right eyes → [[Content Distribution Channels]]
-5. **Measurement** — Prove and improve ROI → [[Content Metrics and Analytics]]
+1. **Audience** — Know who you're serving → [[audience_research_and_personas|Audience Research and Personas]]
+2. **Message** — Define your voice and value props → [[brand_voice_and_messaging|Brand Voice and Messaging]]
+3. **Production** — Plan and execute consistently → [[content_calendar_planning|Content Calendar Planning]]
+4. **Distribution** — Get content in front of the right eyes → [[content_distribution_channels|Content Distribution Channels]]
+5. **Measurement** — Prove and improve ROI → [[content_metrics_and_analytics|Content Metrics and Analytics]]
 
 ## The Strategy Loop
 
@@ -30,10 +30,10 @@ Every piece of content should answer three questions:
 
 ## Linked Topics
 
-- [[SEO and Content Marketing]] — Organic discovery layer
-- [[Social Media Strategy]] — Amplification and community
-- [[Email Marketing Strategy]] — Owned channel nurturing
-- [[Repurposing Content]] — Maximizing asset value
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Organic discovery layer
+- [[social_media_strategy|Social Media Strategy]] — Amplification and community
+- [[email_marketing_strategy|Email Marketing Strategy]] — Owned channel nurturing
+- [[repurposing_content|Repurposing Content]] — Maximizing asset value
 
 ## Key Frameworks
 

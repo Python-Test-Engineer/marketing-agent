@@ -10,7 +10,7 @@ tags:
 
 Creating content is only half the work. Distribution determines who actually sees it. Most teams spend 80% on creation and 20% on distribution — it should be closer to 50/50.
 
-> "Make content once. Distribute it everywhere." — [[Repurposing Content]]
+> "Make content once. Distribute it everywhere." — [[repurposing_content|Repurposing Content]]
 
 ## Distribution Channel Map
 
@@ -18,8 +18,8 @@ Creating content is only half the work. Distribution determines who actually see
 Content Asset (Blog Post, Video, Report)
     │
     ├── Owned Channels
-    │     ├── [[Email Marketing Strategy]] (newsletter, nurture)
-    │     ├── Website / Blog (SEO → [[SEO and Content Marketing]])
+    │     ├── [[email_marketing_strategy|Email Marketing Strategy]] (newsletter, nurture)
+    │     ├── Website / Blog (SEO → [[seo_and_content_marketing|SEO and Content Marketing]])
     │     └── App / Product in-app messaging
     │
     ├── Earned Channels
@@ -40,13 +40,13 @@ Content Asset (Blog Post, Video, Report)
 |-------|---------|---------|------|
 | **P**aid | Ads, sponsored content | High | $ |
 | **E**arned | PR, backlinks, UGC | Low | Free |
-| **S**hared | [[Social Media Strategy]] | Medium | Free/$  |
+| **S**hared | [[social_media_strategy|Social Media Strategy]] | Medium | Free/$  |
 | **O**wned | Email, blog, site | Full | Low |
 
 ## Distribution Playbook Per Asset Type
 
 ### Blog Post (after publish)
-1. Send to newsletter segment → [[Email Marketing Strategy]]
+1. Send to newsletter segment → [[email_marketing_strategy|Email Marketing Strategy]]
 2. Post native on LinkedIn with insight pull-quote
 3. Share thread on Twitter/X with key takeaways
 4. Submit to relevant communities (Reddit, Slack, Discord)
@@ -71,9 +71,9 @@ Content Asset (Blog Post, Video, Report)
 
 ## Distribution Calendar
 
-Align with [[Content Calendar Planning]] — map each asset to its distribution schedule at the brief stage, not after publishing.
+Align with [[content_calendar_planning|Content Calendar Planning]] — map each asset to its distribution schedule at the brief stage, not after publishing.
 
 ## Related Notes
-- [[Content Metrics and Analytics]] — Measure performance by channel to find highest ROI
-- [[Repurposing Content]] — One asset × 10 distribution formats
-- [[SEO and Content Marketing]] — Organic is a distribution channel with compounding returns
+- [[content_metrics_and_analytics|Content Metrics and Analytics]] — Measure performance by channel to find highest ROI
+- [[repurposing_content|Repurposing Content]] — One asset × 10 distribution formats
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Organic is a distribution channel with compounding returns

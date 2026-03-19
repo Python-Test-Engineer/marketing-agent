@@ -11,13 +11,14 @@
             "id": "41cf4b33c6647b2f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "brand_voice_and_messaging.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "brand_voice_and_messaging"
             }
           }
         ]
@@ -185,8 +186,11 @@
   },
   "active": "41cf4b33c6647b2f",
   "lastOpenFiles": [
-    "2026-03-19.md",
+    "content_strategy_overview.md",
+    "content_metrics_and_analytics.md",
+    "Content Strategy Overview.md",
     "Untitled.base",
+    "2026-03-19.md",
     "Second Note.md",
     "My First Note.md"
   ]

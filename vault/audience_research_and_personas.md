@@ -8,7 +8,7 @@ tags:
 
 # Audience Research and Personas
 
-Understanding your audience is the foundation of every decision in [[Content Strategy Overview]]. Without this, even the best content falls flat.
+Understanding your audience is the foundation of every decision in [[content_strategy_overview|Content Strategy Overview]]. Without this, even the best content falls flat.
 
 ## Ideal Customer Profile (ICP)
 
@@ -38,12 +38,12 @@ Watering Holes: [Where they hang out online]
 - Customer interviews (aim for 10–15)
 - Sales call recordings (use Gong, Chorus)
 - Community lurking (Reddit, Slack groups, Discord)
-- [[Social Media Strategy]] listening
+- [[social_media_strategy|Social Media Strategy]] listening
 
 ### Quantitative
 - Surveys (Typeform, Google Forms)
 - Website behavior (GA4, Hotjar)
-- [[Content Metrics and Analytics]] patterns
+- [[content_metrics_and_analytics|Content Metrics and Analytics]] patterns
 
 ## Persona → Content Mapping
 
@@ -57,9 +57,9 @@ Watering Holes: [Where they hang out online]
 
 > "When I [situation], I want to [motivation], so I can [outcome]."
 
-Map each JTBD to content types in [[Content Calendar Planning]].
+Map each JTBD to content types in [[content_calendar_planning|Content Calendar Planning]].
 
 ## Related Notes
-- [[Brand Voice and Messaging]] — Tone should match persona expectations
-- [[SEO and Content Marketing]] — Keyword research validates search intent
-- [[Email Marketing Strategy]] — Segmentation starts with persona data
+- [[brand_voice_and_messaging|Brand Voice and Messaging]] — Tone should match persona expectations
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Keyword research validates search intent
+- [[email_marketing_strategy|Email Marketing Strategy]] — Segmentation starts with persona data

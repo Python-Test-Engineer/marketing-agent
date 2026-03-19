@@ -8,12 +8,12 @@ tags:
 
 # Email Marketing Strategy
 
-Email is your most valuable **owned channel** — no algorithm, no pay-to-play, direct line to your audience. It should be a core pillar in every [[Content Strategy Overview]].
+Email is your most valuable **owned channel** — no algorithm, no pay-to-play, direct line to your audience. It should be a core pillar in every [[content_strategy_overview|Content Strategy Overview]].
 
 ## List Architecture
 
 ### Segmentation Dimensions
-- **Persona** → from [[Audience Research and Personas]]
+- **Persona** → from [[audience_research_and_personas|Audience Research and Personas]]
 - **Funnel stage** → TOFU subscribers vs. active trial users vs. customers
 - **Engagement tier** → active (opened in 90 days), cold, lapsed
 - **Source** → how they joined (lead magnet, webinar, organic)
@@ -63,7 +63,7 @@ P.S.: Second CTA or teaser for next issue
 
 ## Key Metrics to Track
 
-Track in [[Content Metrics and Analytics]]:
+Track in [[content_metrics_and_analytics|Content Metrics and Analytics]]:
 - **Open rate** (industry avg ~25–35%)
 - **Click-to-open rate (CTOR)** — quality of content
 - **Unsubscribe rate** — <0.3% per send is healthy
@@ -72,13 +72,13 @@ Track in [[Content Metrics and Analytics]]:
 ## Lead Magnet Ideas
 
 Drive list growth with high-value offers:
-- Templates and checklists (connect to [[Content Calendar Planning]])
+- Templates and checklists (connect to [[content_calendar_planning|Content Calendar Planning]])
 - Mini-courses or email sequences
 - Free audits or assessments
 - Exclusive research or benchmark reports
 
 ## Related Notes
-- [[Content Distribution Channels]] — Email is the highest-converting distribution channel
-- [[Repurposing Content]] — Newsletter content can be repurposed from blog posts
-- [[Social Media Strategy]] — Cross-promote newsletter on social to grow list
-- [[Brand Voice and Messaging]] — Voice must be consistent across all email copy
+- [[content_distribution_channels|Content Distribution Channels]] — Email is the highest-converting distribution channel
+- [[repurposing_content|Repurposing Content]] — Newsletter content can be repurposed from blog posts
+- [[social_media_strategy|Social Media Strategy]] — Cross-promote newsletter on social to grow list
+- [[brand_voice_and_messaging|Brand Voice and Messaging]] — Voice must be consistent across all email copy

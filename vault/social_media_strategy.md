@@ -8,11 +8,11 @@ tags:
 
 # Social Media Strategy
 
-Social media is the amplification and community layer of your [[Content Strategy Overview]]. It shortens the feedback loop between brand and audience faster than any other channel.
+Social media is the amplification and community layer of your [[content_strategy_overview|Content Strategy Overview]]. It shortens the feedback loop between brand and audience faster than any other channel.
 
 ## Platform Selection Framework
 
-Don't be everywhere. Choose platforms where your [[Audience Research and Personas|ICP]] already spends time.
+Don't be everywhere. Choose platforms where your [[audience_research_and_personas|ICP]] already spends time.
 
 | Platform | Best For | Content Format | Posting Frequency |
 |----------|----------|---------------|-------------------|
@@ -24,7 +24,7 @@ Don't be everywhere. Choose platforms where your [[Audience Research and Persona
 
 ## Content Pillars for Social
 
-Define 3–5 recurring content types that ladder up to [[Brand Voice and Messaging]]:
+Define 3–5 recurring content types that ladder up to [[brand_voice_and_messaging|Brand Voice and Messaging]]:
 
 1. **Educational** — Tips, how-tos, explainers (builds authority)
 2. **Social proof** — Testimonials, case study snippets, UGC (builds trust)
@@ -45,22 +45,22 @@ For every **6 posts**:
 - **Reply to every comment** in the first hour after posting
 - Use **hooks in the first line** — most feeds cut off after line 1–2
 - **Consistency beats virality** — daily presence > occasional viral moments
-- Recycle top performers: see [[Repurposing Content]]
+- Recycle top performers: see [[repurposing_content|Repurposing Content]]
 
 ## Community Management
 
 - Set response SLA (e.g., reply within 2 hours during business hours)
 - Track brand mentions and keywords (use Mention, Brandwatch)
 - Engage proactively in relevant conversations — don't just broadcast
-- Connect social engagement data to [[Content Metrics and Analytics]]
+- Connect social engagement data to [[content_metrics_and_analytics|Content Metrics and Analytics]]
 
 ## Content Sourcing
 
-- Repurpose blog posts → [[Repurposing Content]]
-- Pull insights from [[Email Marketing Strategy]] top performers
-- Align timing with [[Content Calendar Planning]]
+- Repurpose blog posts → [[repurposing_content|Repurposing Content]]
+- Pull insights from [[email_marketing_strategy|Email Marketing Strategy]] top performers
+- Align timing with [[content_calendar_planning|Content Calendar Planning]]
 
 ## Related Notes
-- [[Content Distribution Channels]] — Social is one node in the full distribution graph
-- [[SEO and Content Marketing]] — Social can seed link-building and brand search volume
-- [[Content Metrics and Analytics]] — Track reach, engagement rate, link clicks, follower growth
+- [[content_distribution_channels|Content Distribution Channels]] — Social is one node in the full distribution graph
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Social can seed link-building and brand search volume
+- [[content_metrics_and_analytics|Content Metrics and Analytics]] — Track reach, engagement rate, link clicks, follower growth

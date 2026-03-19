@@ -8,7 +8,7 @@ tags:
 
 # Repurposing Content
 
-Content repurposing is the discipline of extracting maximum value from a single asset. It's central to [[Content Strategy Overview]] for teams that need to produce at scale without proportionally scaling headcount.
+Content repurposing is the discipline of extracting maximum value from a single asset. It's central to [[content_strategy_overview|Content Strategy Overview]] for teams that need to produce at scale without proportionally scaling headcount.
 
 > **Core principle:** Create once, distribute in every format your audience prefers.
 
@@ -18,8 +18,8 @@ Content repurposing is the discipline of extracting maximum value from a single 
          📄 Pillar Content
         (Blog post, webinar, podcast, report)
               ↓
-    📧 Newsletter digest → [[Email Marketing Strategy]]
-    🎥 Short-form video clips → [[Social Media Strategy]]
+    📧 Newsletter digest → [[email_marketing_strategy|Email Marketing Strategy]]
+    🎥 Short-form video clips → [[social_media_strategy|Social Media Strategy]]
     🧵 Threads / carousel posts
     🎙 Podcast episode (or transcript → blog)
     📊 Infographic / data visualization
@@ -40,12 +40,12 @@ Content repurposing is the discipline of extracting maximum value from a single 
 
 ## Repurposing Workflow
 
-1. **Identify candidates** — Use [[Content Metrics and Analytics]] to find top performers (high traffic, high engagement)
-2. **Plan in brief** — Add repurposing plan to content brief in [[Content Calendar Planning]]
+1. **Identify candidates** — Use [[content_metrics_and_analytics|Content Metrics and Analytics]] to find top performers (high traffic, high engagement)
+2. **Plan in brief** — Add repurposing plan to content brief in [[content_calendar_planning|Content Calendar Planning]]
 3. **Create parent asset** — Write/record the pillar
 4. **Extract derivatives** — Pull quotes, data, clips, outlines
 5. **Adapt (don't just copy)** — Reformat for each channel's native style
-6. **Schedule** — Stagger distribution over 30–60 days via [[Content Distribution Channels]]
+6. **Schedule** — Stagger distribution over 30–60 days via [[content_distribution_channels|Content Distribution Channels]]
 
 ## Evergreen vs. Timely Repurposing
 
@@ -57,9 +57,9 @@ Content repurposing is the discipline of extracting maximum value from a single 
 ## Common Repurposing Mistakes
 
 - **Copy-paste without adapting** — Each platform has native formats; a blog intro doesn't work as a tweet hook
-- **Repurposing low performers** — Only amplify what's already working (check [[Content Metrics and Analytics]])
-- **No distribution plan** — Repurposed assets still need a distribution plan → [[Content Distribution Channels]]
-- **Ignoring format nuance** — [[Social Media Strategy]] platforms reward native content; adapt accordingly
+- **Repurposing low performers** — Only amplify what's already working (check [[content_metrics_and_analytics|Content Metrics and Analytics]])
+- **No distribution plan** — Repurposed assets still need a distribution plan → [[content_distribution_channels|Content Distribution Channels]]
+- **Ignoring format nuance** — [[social_media_strategy|Social Media Strategy]] platforms reward native content; adapt accordingly
 
 ## Tools for Repurposing
 
@@ -72,7 +72,7 @@ Content repurposing is the discipline of extracting maximum value from a single 
 | Scheduling | Buffer, Hootsuite, Later |
 
 ## Related Notes
-- [[Content Calendar Planning]] — Schedule repurposing alongside original publishing
-- [[SEO and Content Marketing]] — High-ranking posts are the best repurposing candidates
-- [[Brand Voice and Messaging]] — Voice must remain consistent across all repurposed formats
-- [[Audience Research and Personas]] — Different personas consume different formats; repurpose accordingly
+- [[content_calendar_planning|Content Calendar Planning]] — Schedule repurposing alongside original publishing
+- [[seo_and_content_marketing|SEO and Content Marketing]] — High-ranking posts are the best repurposing candidates
+- [[brand_voice_and_messaging|Brand Voice and Messaging]] — Voice must remain consistent across all repurposed formats
+- [[audience_research_and_personas|Audience Research and Personas]] — Different personas consume different formats; repurpose accordingly

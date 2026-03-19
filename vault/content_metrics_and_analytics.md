@@ -9,7 +9,7 @@ tags:
 
 # Content Metrics and Analytics
 
-Measurement closes the loop in [[Content Strategy Overview]]. Without it, you're optimizing by gut feel. With it, every piece of content teaches you something.
+Measurement closes the loop in [[content_strategy_overview|Content Strategy Overview]]. Without it, you're optimizing by gut feel. With it, every piece of content teaches you something.
 
 ## Metrics Framework: The Ladder
 
@@ -27,7 +27,7 @@ Map every KPI to one rung — vanity metrics live at the top, business metrics a
 
 ## Key Metrics by Channel
 
-### Blog / SEO → [[SEO and Content Marketing]]
+### Blog / SEO → [[seo_and_content_marketing|SEO and Content Marketing]]
 | Metric | Target Signal |
 |--------|--------------|
 | Organic sessions | Growing MoM |
@@ -36,7 +36,7 @@ Map every KPI to one rung — vanity metrics live at the top, business metrics a
 | Organic CTR | >3% from GSC |
 | Backlinks acquired | Growing |
 
-### Email → [[Email Marketing Strategy]]
+### Email → [[email_marketing_strategy|Email Marketing Strategy]]
 | Metric | Benchmark |
 |--------|-----------|
 | Open rate | 25–40% |
@@ -44,7 +44,7 @@ Map every KPI to one rung — vanity metrics live at the top, business metrics a
 | Unsubscribe rate | <0.3% |
 | Revenue per email | Varies by product |
 
-### Social → [[Social Media Strategy]]
+### Social → [[social_media_strategy|Social Media Strategy]]
 | Metric | What It Signals |
 |--------|----------------|
 | Reach | Content is being discovered |
@@ -87,7 +87,7 @@ Map every KPI to one rung — vanity metrics live at the top, business metrics a
 - **Attribution:** HubSpot, Triple Whale (e-commerce), or custom dashboards
 
 ## Related Notes
-- [[Content Calendar Planning]] — Weekly metrics review feeds next week's plan
-- [[Repurposing Content]] — Metrics reveal which assets deserve a second life
-- [[Content Distribution Channels]] — Attribution shows which channels convert best
-- [[Audience Research and Personas]] — Data validates or challenges persona assumptions
+- [[content_calendar_planning|Content Calendar Planning]] — Weekly metrics review feeds next week's plan
+- [[repurposing_content|Repurposing Content]] — Metrics reveal which assets deserve a second life
+- [[content_distribution_channels|Content Distribution Channels]] — Attribution shows which channels convert best
+- [[audience_research_and_personas|Audience Research and Personas]] — Data validates or challenges persona assumptions

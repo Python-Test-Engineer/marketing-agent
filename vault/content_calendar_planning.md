@@ -8,7 +8,7 @@ tags:
 
 # Content Calendar Planning
 
-A content calendar transforms [[Content Strategy Overview]] from theory into a production schedule. It ensures consistent publishing, cross-channel coordination, and no last-minute scrambles.
+A content calendar transforms [[content_strategy_overview|Content Strategy Overview]] from theory into a production schedule. It ensures consistent publishing, cross-channel coordination, and no last-minute scrambles.
 
 ## Calendar Architecture
 
@@ -42,24 +42,24 @@ Balance evergreen vs. timely content:
 
 ## Topic Ideation Sources
 
-- [[Audience Research and Personas]] — Pain points and questions
-- [[SEO and Content Marketing]] — Keyword gap analysis
+- [[audience_research_and_personas|Audience Research and Personas]] — Pain points and questions
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Keyword gap analysis
 - Sales/support tickets — Real questions customers ask
 - Competitor content audits
-- [[Social Media Strategy]] — Comments, DMs, trending topics
+- [[social_media_strategy|Social Media Strategy]] — Comments, DMs, trending topics
 
 ## Content Brief Template
 
 ```
 Title:
-Target Persona: (link to [[Audience Research and Personas]])
+Target Persona: (link to [[audience_research_and_personas|Audience Research and Personas]])
 Funnel Stage: TOFU / MOFU / BOFU
 Primary Keyword:
 CTA:
 Format: Blog / Video / Email / Social
 Publish Date:
-Distribution Channels: (see [[Content Distribution Channels]])
-Repurposing Plan: (see [[Repurposing Content]])
+Distribution Channels: (see [[content_distribution_channels|Content Distribution Channels]])
+Repurposing Plan: (see [[repurposing_content|Repurposing Content]])
 ```
 
 ## Tools
@@ -70,6 +70,6 @@ Repurposing Plan: (see [[Repurposing Content]])
 - **Google Sheets** — Lightweight option
 
 ## Related Notes
-- [[Content Distribution Channels]] — Calendar feeds the distribution plan
-- [[Repurposing Content]] — Plan repurposing at brief stage, not after
-- [[Content Metrics and Analytics]] — Weekly review closes the loop
+- [[content_distribution_channels|Content Distribution Channels]] — Calendar feeds the distribution plan
+- [[repurposing_content|Repurposing Content]] — Plan repurposing at brief stage, not after
+- [[content_metrics_and_analytics|Content Metrics and Analytics]] — Weekly review closes the loop

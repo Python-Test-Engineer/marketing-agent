@@ -8,7 +8,7 @@ tags:
 
 # Brand Voice and Messaging
 
-Brand voice is *how* you say things; messaging is *what* you say. Together they create a consistent, recognizable brand in every piece of content. See [[Content Strategy Overview]] for how this fits the larger picture.
+Brand voice is *how* you say things; messaging is *what* you say. Together they create a consistent, recognizable brand in every piece of content. See [[content_strategy_overview|Content Strategy Overview]] for how this fits the larger picture.
 
 ## Voice vs. Tone
 
@@ -37,7 +37,7 @@ Example: "Here's what happened and why it matters."
 ```
 Company Tagline
     └── Value Proposition (for all audiences)
-            ├── Persona 1 Message → [[Audience Research and Personas]]
+            ├── Persona 1 Message → [[audience_research_and_personas|Audience Research and Personas]]
             ├── Persona 2 Message
             └── Persona 3 Message
 ```
@@ -55,13 +55,13 @@ Typically 3–5 pillars that every content piece should touch on at least one of
 ## Copy Checklist
 
 - [ ] Does this reflect our voice attributes?
-- [ ] Does it address a specific [[Audience Research and Personas|persona]]?
+- [ ] Does it address a specific [[audience_research_and_personas|persona]]?
 - [ ] Is the CTA clear and singular?
 - [ ] Does it connect to a messaging pillar?
 - [ ] Is it scannable? (headers, bullets, short paragraphs)
 
 ## Related Notes
-- [[Content Calendar Planning]] — Voice should be consistent across all scheduled content
-- [[Social Media Strategy]] — Each platform may shift tone while keeping voice
-- [[Email Marketing Strategy]] — Subject lines and body copy voice consistency
-- [[SEO and Content Marketing]] — Keyword-rich copy still needs human voice
+- [[content_calendar_planning|Content Calendar Planning]] — Voice should be consistent across all scheduled content
+- [[social_media_strategy|Social Media Strategy]] — Each platform may shift tone while keeping voice
+- [[email_marketing_strategy|Email Marketing Strategy]] — Subject lines and body copy voice consistency
+- [[seo_and_content_marketing|SEO and Content Marketing]] — Keyword-rich copy still needs human voice
